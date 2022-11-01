@@ -23,6 +23,5 @@ int main() {
             cout<<"ANY"<<endl;
         }
     }
-	// your code goes here
 	return 0;
 }
